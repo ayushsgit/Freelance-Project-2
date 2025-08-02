@@ -139,7 +139,7 @@ export function MenuSection() {
                 className="flex flex-col py-4 px-6 data-[state=active]:bg-amber-600 data-[state=active]:text-white"
               >
                 <span className="font-semibold">{category.name}</span>
-                <span className="text-xs text-muted-foreground data-[state=active]:text-amber-100 mt-1">
+                <span className="text-xs text-[rgba(0,0,255,1)] data-[state=active]:text-amber-100 mt-1">
                   {category.description}
                 </span>
               </TabsTrigger>

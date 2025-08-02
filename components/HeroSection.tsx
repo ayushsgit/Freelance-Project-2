@@ -35,7 +35,7 @@ export function HeroSection() {
           <Button 
             variant="outline" 
             size="lg" 
-            className="border-white text-[rgba(155,67,67,1)] hover:bg-white hover:text-black px-8 py-3 text-lg"
+            className="border-white text-[rgba(255,0,0,1)] hover:bg-white hover:text-black px-8 py-3 text-lg"
           >
             <Play className="mr-2 h-5 w-5" />
             Watch Our Story
